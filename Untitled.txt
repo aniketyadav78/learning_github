@@ -1,0 +1,17 @@
+Branch :- kisi work project ko specify karna
+200 - successful reserch
+500 - internal server error
+403 -
+deployed :- kisi project ko chod dena like amazon or flipkart 
+git branch
+git switch branchname
+How to create a branch :-( command - git checkout -b branchname ) branchname ko likhane ka tarika = ( name\front or back\home )
+
+pr rays :- pull request rays
+
+delete branch command - git Checkout -d Mehak/frontend/About
+
+     main/master
+    ||||||||||||
+   /            \
+ frontend     backend
